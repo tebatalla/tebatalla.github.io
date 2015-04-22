@@ -1,0 +1,28 @@
+.nav>li>a {
+  position: relative;
+  display: block;
+  padding: 7px 15px;
+}
+.nav>li>a:hover, .fa:hover {
+  color: #c0392b;
+  background-color: transparent;
+}
+
+.nav .h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.fa, a {
+  color: #27ae60;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #c0392b;
+}
+
+.project-icon {
+  width: 64px;
+  height: 64px;
+}
