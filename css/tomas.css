@@ -39,3 +39,7 @@ a:hover, a:focus {
 .section-header {
   padding-bottom: 20px;
 }
+
+.media {
+  padding-bottom: 5px;
+}
